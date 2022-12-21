@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5FCDD374-2AEA-41AE-8AFA-79C58766595E}</ProjectGuid>
+    <ProjectGuid>{F8E34283-BF54-46FA-B450-034BA2602BBF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>drugi_zad</RootNamespace>
-    <AssemblyName>drugi_zad</AssemblyName>
+    <RootNamespace>zadatak2</RootNamespace>
+    <AssemblyName>zadatak2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
